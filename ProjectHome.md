@@ -1,0 +1,1 @@
+It's Yet Another Wordle Clone. Written in Perl.
